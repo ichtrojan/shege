@@ -22,7 +22,7 @@ export default () => (
         <section className="intro">
             <h1>Welcome to <span className="line-through">normal</span> <b>Shege</b></h1>
             <h3>A whole new <b>Experience</b></h3>
-            <h3>Tech consultancy</h3>
+            <h3>Product Powerhouse</h3>
             <div className="line"></div>
             <div className="line"></div>
             <h3>HI@SHEGE.TECH</h3>
