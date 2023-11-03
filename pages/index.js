@@ -17,6 +17,7 @@ export default () => (
             <meta property="og:url" content="https://shege.tech"/>
             <meta name="apple-mobile-web-app-capable" content="yes"/>
             <meta name="apple-mobile-web-app-status-bar-style" content="white"/>
+            <meta name="facebook-domain-verification" content="1u3z5qlwm7fvi2ko5motipri6c49xm" />
         </Head>
         <Header/>
         <section className="intro">
